@@ -1,0 +1,6 @@
+atlas-credentials.env
+state.env
+ud-*.sh
+*.pem
+.env
+deploy-backend.log
